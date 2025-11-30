@@ -31,3 +31,5 @@ Add the .yml File to Your Repository:
 
 # ​⚠️ Important Note 
 If your GitHub account happens to get banned, the suggested next step is to create a new one, perhaps using an Outlook email address.
+;
+if it doesnt work try changing the code a little
