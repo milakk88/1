@@ -4,9 +4,11 @@ This repository serves as a step-by-step guide on how to set up a Tailscale Remo
 # ​🛠️ Steps on How to Deploy
 ​Follow these simple steps to get your Windows Tailscale RD running:
 ​Prerequisites (You Need):
-​✅ A Tailscale Account.
-​🔑 A Tailscale Auth Key.
-​🐙 A GitHub Account with GitHub Actions enabled.
+1 ​✅ A Tailscale Account.
+
+2 🔑 A Tailscale Auth Key.
+
+3 🐙 A GitHub Account with GitHub Actions enabled.
 
 ​Deployment Process:
 ​➡️ Go to the GitHub repository where you want to deploy the Tailscale Windows RD.
