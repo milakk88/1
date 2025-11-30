@@ -1,5 +1,5 @@
 # windows tailscale
-this is a test repository😇
+this repository is only to show people how to make a tailscale rd
 
 # steps on how to do
 
