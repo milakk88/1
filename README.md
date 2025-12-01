@@ -22,8 +22,8 @@ This repository serves as a step-by-step guide on how to set up a Tailscale Remo
 
 ​⬇️ Get the Workflow File:
 ​Download the .yml file from this repository:
-​Path: 1/.github/workflows/main.yml
-​Direct Link: https://github.com/clowny-louis/1/blob/main/.github/workflows/main.yml
+​Path: 1/.github/workflows/kl.yml
+​Direct Link: https://github.com/clowny-louis/1/blob/main/.github/workflows/kl.yml
 ​⬆️ 
 
 Add the .yml File to Your Repository:
