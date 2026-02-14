@@ -21,7 +21,7 @@ jobs:
       - name: Create RD User with Custom Password
         run: |
           # Setting your custom password here
-          $password = "testingrdp"
+          $password = "wereis1@"
           $securePass = ConvertTo-SecureString $password -AsPlainText -Force
           
           # Create the user "meow"
