@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  rd:
+  you:
     runs-on: windows-2025
     timeout-minutes: 3600
 
